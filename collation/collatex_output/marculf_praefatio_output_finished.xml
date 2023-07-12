@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="format.css"?>
+<!DOCTYPE TEI PUBLIC "-//TEI//DTD TEI P5//EN" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+        <author>SOME AUTHOR</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>SOME DATE</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <p rend="text-indent:0mm;">unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p rend="text-indent:0mm;">Automatic Export from Collatex</p>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <listChange>
+        <change>
+          <date>SOME DATE</date>
+          <name>SOME NAME</name>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>INCIPIT PREFACIO LIBRI HUIUS DOMINO SANCT meritis beatissi mo et apostolico sem per honhore suscipi endo omnique pre co nio hausle celebrando domino hac reveren tissimo papa aeghl dulfo marculfur ultimus hac viliaai mua ominuum mona chorum utinam sanctae pater iussionem vestiam tam effiicatiter quam spon tanie obtemperare va luissem quia super vires maee posssibilita tem conatur sum inveniebus a vobis subire negotium cumferre annos expleam viven do et nec tremula ad scri bendum manus est apta nec ad videndum mihi sufficiunt oculi caliganter nec excognadum sensus sufficut ebritudo quia iuxta datum vobis cuiusdam prudentissimi viri in pueris crescit sensus in iuvenibus viges hi senibus minuetur prope rea eleganter facere non potui utliclui fe cit tamen ordinator ut potui non solum eaque ius isti verum aequam mul ta alia vi hanc scedola tam certas pagensis quam preceptiones regaler iux ta simplicitatem aer </p></div></body></text></TEI>
